@@ -7,14 +7,15 @@ body, html {
   width: 100%;
   padding: 20px 0;
   text-align: center;
-  background-color: #521751;
+  background-color: #5addd2;
   margin-bottom: 36px;
 }
 
 .main-header h1 {
   font-size: 2em;
   margin: 0;
-  color: white;
+  color: rgb(50, 71, 141);
+  font-weight: bold;
 }
 
 .main-header h3 {
@@ -30,6 +31,7 @@ body, html {
   max-width: 800px;
   margin: auto;
   cursor: pointer;
+  background-color: #dad3da !important;
 }
 
 .card__image img {
