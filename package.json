@@ -1,5 +1,5 @@
 {
-  "name": "example-pwa",
+  "name": "my-pwa",
   "version": "1.0.0",
   "description": "A simple example PWA with an app-manifest and precaching",
   "main": "index.js",
@@ -12,6 +12,6 @@
   "author": "Maximilian Schwarzmüller",
   "license": "MIT",
   "devDependencies": {
-    "http-server": "^0.11.1"
+    // "http-server": "^0.11.1"
   }
 }
