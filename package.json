@@ -4,7 +4,7 @@
   "description": "A simple example PWA with an app-manifest and precaching",
   "main": "index.js",
   "scripts": {
-    "start": "http-server -c-1 -p my-pwa-app.herokuapp.com"
+    "start": "http-server -c-1 -p  process.env.PORT || 8081"
   },
   "keywords": [
     "pwa"
