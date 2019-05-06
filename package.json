@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     
-    "start": "http-server -c-1 -p  process.env.PORT"
+    "start": "http-server -c-1 -p  4200  "
   },
   "keywords": [
     "pwa"
